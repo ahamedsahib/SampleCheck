@@ -9,7 +9,11 @@ namespace HelloWorld
             Sample1 obj = new Sample1();
             Console.WriteLine("Answer is " + obj.Multiplication(5, 3));
             Console.WriteLine("Hello World!");
+<<<<<<< Updated upstream
             Console.WriteLine("for making Conflict");
+=======
+            Console.WriteLine("testing status");
+>>>>>>> Stashed changes
             
         }
     }
