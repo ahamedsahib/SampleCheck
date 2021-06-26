@@ -11,7 +11,8 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("for making Conflict");
             Console.WriteLine("testing status");
-            
+            Console.WriteLine("modified on remote");
+            Console.WriteLine("modifing in remote");
         }
     }
 }
